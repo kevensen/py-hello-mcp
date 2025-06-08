@@ -1,6 +1,6 @@
 # py-hello-mcp
 
-This is a basic agent to be used with the Google ADK.  It is an example of how to use an agent with a streaming HTTP tool server.
+This is a basic agent to be used with the Google ADK.  It is an example of how to use an agent with a streaming HTTP tool server.  This is meant to be used with https://github.com/kevensen/go-hello-mcp.
 
 ## How to Run
 
